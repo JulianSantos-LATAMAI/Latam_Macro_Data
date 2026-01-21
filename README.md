@@ -27,9 +27,9 @@ All insights in this repository are derived from official, open-source economic 
 
 ### 👤 Author
 **Julián Santos**
-* [cite_start]**Role:** International Business Student @ Northeastern University [cite: 5]
-* **Experience:** International Business Analyst @ Spain-U.S. [cite_start]Chamber of Commerce [cite: 13]
-* [cite_start]**Leadership:** Founder & Director, Latam Str
+**Role:** International Business Student @ Northeastern University 
+* **Experience:** International Business Analyst @ Spain-U.S. Chamber of Commerce 
+  **Leadership:** Founder & Director, Latam Strategy Group
 \
 
 *Connecting the dots between Santiago, Madrid, and Miami.*
