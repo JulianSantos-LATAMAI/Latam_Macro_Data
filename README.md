@@ -1,5 +1,10 @@
 # 🌎 LATAM - U.S. - Spain: Business Intelligence
 
+
+
+*Connecting the dots with Santiago, Madrid, Miami and everywhere in between.*
+
+
 ### 📌 About This Repository
 This repository serves as a living portfolio of **data-driven insights** regarding the economic exchange between **Latin America, Spain, and the United States**.
 
@@ -22,9 +27,9 @@ All insights in this repository are derived from official, open-source economic 
 
 ### 👤 Author
 **Julián Santos**
-International Business Student @ Northeastern University 
+* [cite_start]**Role:** International Business Student @ Northeastern University [cite: 5]
 * **Experience:** International Business Analyst @ Spain-U.S. [cite_start]Chamber of Commerce [cite: 13]
-* [cite_start]**Leadership:** Founder & Director, Latam Strategy Group [cite: 20]
+* [cite_start]**Leadership:** Founder & Director, Latam Str
 \
 
 *Connecting the dots between Santiago, Madrid, and Miami.*
