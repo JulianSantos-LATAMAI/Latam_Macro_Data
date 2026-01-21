@@ -30,9 +30,7 @@ All insights in this repository are derived from official, open-source economic 
 **Role:** International Business Student @ Northeastern University 
 * **Experience:** International Business Analyst @ Spain-U.S. Chamber of Commerce 
   **Leadership:** Founder & Director, Latam Strategy Group
-\
 
-*Connecting the dots between Santiago, Madrid, and Miami.*
 
 [LinkedIn](www.linkedin.com/in/juliansvurl) 
 [Email] (santos.jul@northeastern.edu)
